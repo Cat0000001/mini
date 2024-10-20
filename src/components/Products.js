@@ -27,7 +27,7 @@ function Products() {
     <div>
       <div className="row">
         <div className="col-lg-12">
-          <h2 className="text-center mt-3">โน๊ตบุ๊ค, คอมพิวเตอร์</h2>
+          <h2 className="text-center mt-3">โทรศัพท์</h2>
         </div>
       </div>
       <div className="row text-center">
