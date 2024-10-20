@@ -7,7 +7,7 @@ function Home() {
 
   return (
     <div className="container mt-2">
-      <Products title="โน๊ตบุ๊คเกมมิ่ง" />
+      <Products title="โทรศัพท์" />
     </div>
   );
 }
